@@ -13,4 +13,10 @@ Routing
     ActivatedRoute, 
     router.navigate(), relativeTo: 
 
+Observable
+    interval(), Observable.create(observer=>)
+    operators
+        map, filter, tap, 
+    Subject
+        .next(),  
     
