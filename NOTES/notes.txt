@@ -1,0 +1,16 @@
+@ViewChild
+@HostBinding
+@Output, @Input
+custom directive
+EventEmitter
+
+Dependency Injection
+    return a copy of array using arr.slice() for security
+
+Routing
+    redirectTo, pathMatch, children
+    routerLink, routerLinkActive
+    ActivatedRoute, 
+    router.navigate(), relativeTo: 
+
+    
